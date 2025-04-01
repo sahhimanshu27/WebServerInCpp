@@ -1,0 +1,4 @@
+# ninja log v6
+17	4528	1743530732000000000	CMakeFiles/WebServerCpp.dir/main.cpp.o	607607606785e3c0
+1651	2047	1743533230000000000	WebServerCpp	90a2d0bfcb8a10a8
+16	1650	1743533228000000000	CMakeFiles/WebServerCpp.dir/Networking/SimpleSocket.cpp.o	478ac941c8eb6e3
